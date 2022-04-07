@@ -1,0 +1,21 @@
+Answer to 3:
+Perform a quick update on your instance:
+sudo yum update -y
+
+#Install git in your EC2 instance
+sudo yum install git -y
+
+Answer to 4:
+#Check git version
+git version
+
+Answer to 5:
+git clone https://github.com/Jahidul2543/QAAEB2201 
+
+Answer to 6:
+mkdir app
+
+mv mv ~/QAAEB2201/* ~/app/
+cd app
+ls
+
